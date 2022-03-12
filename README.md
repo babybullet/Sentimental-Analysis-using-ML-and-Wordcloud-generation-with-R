@@ -22,4 +22,4 @@ Now, for the sentimental analysis of the cleanset several librarires has been us
 
 **library(dplyr)**- Consists of set of tools to manipulate R datasets.
 
-Hit like if you liked this project. will be uploading more projects on C++ and data analytics using open source softwares.
+Hit a star if you liked this project. will be uploading more projects on C++ and data analytics using open source softwares.
